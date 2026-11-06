@@ -1,0 +1,7 @@
+# Публикуется только рабочий скилл
+/*
+!/.gitignore
+!/README.md
+!/node-knowledge/
+!/.gitattributes
+!/LICENSE
